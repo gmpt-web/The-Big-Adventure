@@ -2,7 +2,7 @@
 
   git clone <url-repos>  
   git add <nom_du_fichier>  
-  git commit <nom_du_fichier>
+  git commit <nom_du_fichier>  
   git push
 
 # Recuperer version antecedente
